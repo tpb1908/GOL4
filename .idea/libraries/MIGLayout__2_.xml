@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MIGLayout (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/miglayout-4.0-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
